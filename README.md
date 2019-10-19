@@ -1,7 +1,7 @@
 # Dockerising a Node.js web app
 
 ### Building your image
-From the directory where the `Dockerfile` is run the following command:
+From the directory where the `Dockerfile` is, run the following command:
 
 ```
 docker build -t <your username>/node-web-app-name .
